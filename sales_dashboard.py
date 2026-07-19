@@ -41,4 +41,22 @@ state = order.groupby("ship_state")["total_amount"].sum().sort_values(ascending=
 
 #MONTHLY GROWTH
 monthly_growth = monthly_revenue.pct_change()
-print(monthly_growth)
+# print(monthly_growth)
+
+##########################################################
+#DATA CLEANING
+
+#delete duplicate rows:
+order = order.drop_duplicates()
+
+#remove rows with quantiity = 0
+orders_clean = order[(order["quantity"] != 0)]
+
+#Handle missing data
+order["discount_pct"] = order["discount_pct"].replace({0.00: "-"})
+
+#Removed Returned + Cancelled orders to help with revenue calculating
+order = order[(order["order_status"] != "Returned")]
+order = order[(order["order_status"] != "Cancelled")]
+
+print(order.to_string())
