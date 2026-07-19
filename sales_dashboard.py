@@ -26,4 +26,10 @@ print(group["customer_id"].count().idxmax())
 best_customers = (order.groupby("customer_id")["total_amount"].sum()
                    .sort_values(ascending=False)
                    .to_frame().merge(customers, on="customer_id"))
-print(best_customers.to_string())
+# print(best_customers.to_string())
+
+
+#profit = revenue - cost
+order["profit"] = order["total_amount"] - (order["unit_cost"]*order["quantity"])
+order["margin_pct"] = order["profit"] / order["total_amount"]
+print(order)
