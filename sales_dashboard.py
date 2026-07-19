@@ -20,7 +20,7 @@ monthly_revenue = order.groupby("month")["total_amount"].sum()
 #Best customers: 
 group = order.groupby("customer_id")
 #customer with most orders: 
-print(group["customer_id"].count().idxmax())
+# print(group["customer_id"].count().idxmax())
 #join both tables together 
 
 best_customers = (order.groupby("customer_id")["total_amount"].sum()
@@ -28,8 +28,13 @@ best_customers = (order.groupby("customer_id")["total_amount"].sum()
                    .to_frame().merge(customers, on="customer_id"))
 # print(best_customers.to_string())
 
-
+#PROFIT MARGINS:
 #profit = revenue - cost
 order["profit"] = order["total_amount"] - (order["unit_cost"]*order["quantity"])
 order["margin_pct"] = order["profit"] / order["total_amount"]
-print(order)
+# print(order)
+
+#SALES BY STATE: 
+#number of orders: 
+state = order.groupby("ship_state")["total_amount"].sum().sort_values(ascending=False)
+print(state)
