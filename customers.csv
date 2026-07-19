@@ -1,0 +1,251 @@
+customer_id,customer_name,email,city,state,segment,signup_date
+CUST-0001,Patricia Ramirez,patricia.ramirez1@example.com,Fort Lauderdale,Florida,Corporate,2023-10-04
+CUST-0002,David Brown,david.brown2@example.com,SC City,South Carolina,Corporate,2024-04-15
+CUST-0003,Carlos Moore,carlos.moore3@example.com,Naperville,Illinois,Home Office,2023-03-23
+CUST-0004,Thomas Ramirez,thomas.ramirez4@example.com,MA City,Massachusetts,Consumer,2024-02-16
+CUST-0005,Karen Davis,karen.davis5@example.com,PA City,Pennsylvania,Corporate,2024-07-21
+CUST-0006,Robert Martinez,robert.martinez6@example.com,VA City,Virginia,Consumer,2024-02-08
+CUST-0007,Robert King,robert.king7@example.com,MO City,Missouri,Consumer,2024-03-09
+CUST-0008,Ana Gonzalez,ana.gonzalez8@example.com,San Diego,California,Corporate,2023-10-26
+CUST-0009,Michael Allen,michael.allen9@example.com,MN City,Minnesota,Consumer,2024-04-20
+CUST-0010,Ethan Gonzalez,ethan.gonzalez10@example.com,Chicago,Illinois,Consumer,2024-05-23
+CUST-0011,Priya Taylor,priya.taylor11@example.com,San Antonio,Texas,Consumer,2023-12-27
+CUST-0012,Linda Robinson,linda.robinson12@example.com,MI City,Michigan,Corporate,2023-03-04
+CUST-0013,Susan Thomas,susan.thomas13@example.com,Fort Lauderdale,Florida,Corporate,2024-05-29
+CUST-0014,Richard Thompson,richard.thompson14@example.com,Fort Worth,Texas,Corporate,2023-03-31
+CUST-0015,James Ramirez,james.ramirez15@example.com,MI City,Michigan,Corporate,2024-02-29
+CUST-0016,Matthew Taylor,matthew.taylor16@example.com,OH City,Ohio,Consumer,2023-01-24
+CUST-0017,Michael Thomas,michael.thomas17@example.com,Rockford,Illinois,Corporate,2024-03-03
+CUST-0018,Matthew Lee,matthew.lee18@example.com,PA City,Pennsylvania,Corporate,2024-02-10
+CUST-0019,Ana Hernandez,ana.hernandez19@example.com,San Diego,California,Consumer,2023-08-11
+CUST-0020,Richard Anderson,richard.anderson20@example.com,TN City,Tennessee,Consumer,2023-01-23
+CUST-0021,William Robinson,william.robinson21@example.com,Rochester,New York,Corporate,2023-06-29
+CUST-0022,Sandra Moore,sandra.moore22@example.com,NC City,North Carolina,Consumer,2024-05-15
+CUST-0023,Charles Lewis,charles.lewis23@example.com,Houston,Texas,Consumer,2023-08-02
+CUST-0024,Carlos Sanchez,carlos.sanchez24@example.com,Chicago,Illinois,Consumer,2024-04-03
+CUST-0025,Mia Garcia,mia.garcia25@example.com,MI City,Michigan,Consumer,2023-11-13
+CUST-0026,Karen Rodriguez,karen.rodriguez26@example.com,GA City,Georgia,Consumer,2023-07-12
+CUST-0027,Sofia Brown,sofia.brown27@example.com,San Jose,California,Home Office,2023-08-05
+CUST-0028,Nancy Harris,nancy.harris28@example.com,Syracuse,New York,Corporate,2024-05-03
+CUST-0029,Barbara Sanchez,barbara.sanchez29@example.com,Orlando,Florida,Consumer,2024-04-15
+CUST-0030,Karen Young,,Springfield,Illinois,Consumer,2024-03-25
+CUST-0031,Liam Lee,liam.lee31@example.com,Fort Worth,Texas,Corporate,2023-10-23
+CUST-0032,Nancy Sanchez,nancy.sanchez32@example.com,Jacksonville,Florida,Corporate,2023-07-17
+CUST-0033,John Thompson,john.thompson33@example.com,San Diego,California,Consumer,2024-04-29
+CUST-0034,Linda Moore,linda.moore34@example.com,New York City,New York,Consumer,2024-02-27
+CUST-0035,Linda Lee,linda.lee35@example.com,Fort Worth,Texas,Corporate,2023-07-11
+CUST-0036,Karen Gonzalez,karen.gonzalez36@example.com,OH City,Ohio,Home Office,2023-07-08
+CUST-0037,Mary Anderson,mary.anderson37@example.com,WA City,Washington,Consumer,2023-11-05
+CUST-0038,Richard Moore,richard.moore38@example.com,Rockford,Illinois,Corporate,2023-10-09
+CUST-0039,Lisa Taylor,lisa.taylor39@example.com,Buffalo,New York,Consumer,2024-09-01
+CUST-0040,Noah Thomas,noah.thomas40@example.com,San Jose,California,Home Office,2023-08-21
+CUST-0041,Lisa Jones,lisa.jones41@example.com,PA City,Pennsylvania,Corporate,2023-07-21
+CUST-0042,John Jones,john.jones42@example.com,NC City,North Carolina,Corporate,2023-06-29
+CUST-0043,Mia Clark,mia.clark43@example.com,San Jose,California,Consumer,2024-01-28
+CUST-0044,William Johnson,william.johnson44@example.com,PA City,Pennsylvania,Corporate,2023-12-16
+CUST-0045,Thomas Taylor,thomas.taylor45@example.com,Buffalo,New York,Consumer,2024-05-31
+CUST-0046,Mia Perez,mia.perez46@example.com,Syracuse,New York,Consumer,2023-11-26
+CUST-0047,Mia Jackson,mia.jackson47@example.com,Fort Lauderdale,Florida,Home Office,2023-01-29
+CUST-0048,Yuki Brown,yuki.brown48@example.com,MO City,Missouri,Home Office,2024-04-23
+CUST-0049,Jennifer Jackson,jennifer.jackson49@example.com,Albany,New York,Corporate,2023-01-15
+CUST-0050,Charles Wilson,charles.wilson50@example.com,Sacramento,California,Consumer,2024-04-15
+CUST-0051,James Allen,james.allen51@example.com,Houston,Texas,Corporate,2023-01-21
+CUST-0052,Ethan Garcia,ethan.garcia52@example.com,Dallas,Texas,Home Office,2023-08-23
+CUST-0053,Mary Miller,mary.miller53@example.com,Albany,New York,Home Office,2024-09-29
+CUST-0054,Nancy Moore,nancy.moore54@example.com,Houston,Texas,Consumer,2024-08-20
+CUST-0055,Richard Jones,richard.jones55@example.com,NC City,North Carolina,Consumer,2024-09-11
+CUST-0056,Jennifer Allen,jennifer.allen56@example.com,OH City,Ohio,Consumer,2024-03-19
+CUST-0057,Emma Lewis,emma.lewis57@example.com,NJ City,New Jersey,Consumer,2023-02-23
+CUST-0058,Fatima Thomas,fatima.thomas58@example.com,,Colorado,Consumer,2023-03-21
+CUST-0059,Sofia Hernandez,sofia.hernandez59@example.com,Peoria,Illinois,Home Office,2023-11-21
+CUST-0060,Daniel Hernandez,daniel.hernandez60@example.com,CO City,Colorado,Corporate,2023-11-15
+CUST-0061,Mary Garcia,mary.garcia61@example.com,Sacramento,California,Consumer,2024-02-10
+CUST-0062,Michael Smith,michael.smith62@example.com,OH City,Ohio,Home Office,2024-09-09
+CUST-0063,Fatima Lewis,fatima.lewis63@example.com,Peoria,Illinois,Consumer,2024-02-10
+CUST-0064,Sandra Brown,sandra.brown64@example.com,MA City,Massachusetts,Consumer,2023-06-10
+CUST-0065,Liam Lopez,liam.lopez65@example.com,GA City,Georgia,Home Office,2023-12-06
+CUST-0066,Carlos Perez,carlos.perez66@example.com,Orlando,Florida,Consumer,2023-03-17
+CUST-0067,Jennifer Thompson,jennifer.thompson67@example.com,IN City,Indiana,Consumer,2023-06-25
+CUST-0068,Karen Martinez,karen.martinez68@example.com,VA City,Virginia,Corporate,2023-06-01
+CUST-0069,Sofia Brown,sofia.brown69@example.com,San Diego,California,Consumer,2023-10-31
+CUST-0070,David Lewis,david.lewis70@example.com,New York City,New York,Home Office,2024-08-13
+CUST-0071,Anthony Garcia,anthony.garcia71@example.com,New York City,New York,Consumer,2024-01-04
+CUST-0072,Lisa Smith,lisa.smith72@example.com,Los Angeles,California,Consumer,2023-05-05
+CUST-0073,Charles Lee,charles.lee73@example.com,MI City,Michigan,Consumer,2024-05-28
+CUST-0074,Sarah Wright,sarah.wright74@example.com,IN City,Indiana,Home Office,2023-11-19
+CUST-0075,Lisa Johnson,lisa.johnson75@example.com,Austin,Texas,Consumer,2024-07-22
+CUST-0076,Mark Martin,mark.martin76@example.com,Miami,Florida,Consumer,2023-06-30
+CUST-0077,Ava Jackson,ava.jackson77@example.com,San Jose,California,Consumer,2023-03-01
+CUST-0078,Sarah Allen,sarah.allen78@example.com,San Jose,California,Home Office,2024-06-18
+CUST-0079,William Wright,william.wright79@example.com,AZ City,Arizona,Corporate,2024-01-06
+CUST-0080,Ana Perez,ana.perez80@example.com,San Jose,California,Consumer,2024-05-12
+CUST-0081,Lisa King,lisa.king81@example.com,Peoria,Illinois,Corporate,2024-07-01
+CUST-0082,Thomas Rodriguez,thomas.rodriguez82@example.com,San Diego,California,Consumer,2023-06-20
+CUST-0083,Nancy Perez,nancy.perez83@example.com,Tampa,Florida,Consumer,2023-05-29
+CUST-0084,Thomas Thomas,thomas.thomas84@example.com,MI City,Michigan,Consumer,2023-08-31
+CUST-0085,Ana King,ana.king85@example.com,MD City,Maryland,Consumer,2024-06-29
+CUST-0086,Nancy Taylor,nancy.taylor86@example.com,TN City,Tennessee,Corporate,2023-12-09
+CUST-0087,David Lewis,david.lewis87@example.com,PA City,Pennsylvania,Consumer,2024-05-04
+CUST-0088,Margaret Miller,margaret.miller88@example.com,Dallas,Texas,Home Office,2024-04-14
+CUST-0089,Priya Allen,priya.allen89@example.com,GA City,Georgia,Consumer,2023-03-26
+CUST-0090,Margaret Sanchez,margaret.sanchez90@example.com,San Jose,California,Consumer,2023-12-01
+CUST-0091,Sofia King,sofia.king91@example.com,AZ City,Arizona,Corporate,2023-09-17
+CUST-0092,Anthony Wright,anthony.wright92@example.com,WI City,Wisconsin,Consumer,2024-05-23
+CUST-0093,Wei Lee,wei.lee93@example.com,Sacramento,California,Consumer,2023-11-29
+CUST-0094,Jennifer Martin,jennifer.martin94@example.com,OH City,Ohio,Consumer,2023-11-01
+CUST-0095,Christopher Sanchez,christopher.sanchez95@example.com,WA City,Washington,Consumer,2024-05-03
+CUST-0096,William Lee,william.lee96@example.com,CO City,Colorado,Consumer,2024-06-23
+CUST-0097,Jennifer Sanchez,jennifer.sanchez97@example.com,NC City,North Carolina,Consumer,2023-02-26
+CUST-0098,Ava Ramirez,ava.ramirez98@example.com,NC City,North Carolina,Home Office,2024-04-11
+CUST-0099,Joseph Lewis,joseph.lewis99@example.com,Albany,New York,Consumer,2024-05-02
+CUST-0100,Thomas Hernandez,thomas.hernandez100@example.com,Houston,Texas,Consumer,2023-04-11
+CUST-0101,Mia Sanchez,,NJ City,New Jersey,Corporate,2023-09-02
+CUST-0102,Mia Allen,mia.allen102@example.com,WA City,Washington,Consumer,2024-01-27
+CUST-0103,Nancy Thompson,nancy.thompson103@example.com,NJ City,New Jersey,Home Office,2024-09-22
+CUST-0104,Charles Jones,charles.jones104@example.com,TN City,Tennessee,Consumer,2024-07-15
+CUST-0105,Mark Taylor,mark.taylor105@example.com,MI City,Michigan,Consumer,2024-01-11
+CUST-0106,John Thomas,john.thomas106@example.com,MA City,Massachusetts,Consumer,2023-10-03
+CUST-0107,Richard Lopez,richard.lopez107@example.com,Rochester,New York,Corporate,2023-10-10
+CUST-0108,Ava Martin,ava.martin108@example.com,NV City,Nevada,Home Office,2023-03-12
+CUST-0109,Priya Martinez,priya.martinez109@example.com,MA City,Massachusetts,Home Office,2023-01-28
+CUST-0110,John Smith,john.smith110@example.com,NC City,North Carolina,Consumer,2024-03-01
+CUST-0111,Sandra Young,sandra.young111@example.com,San Francisco,California,Consumer,2023-06-07
+CUST-0112,Noah Ramirez,noah.ramirez112@example.com,Fort Worth,Texas,Corporate,2023-01-10
+CUST-0113,Ava Johnson,ava.johnson113@example.com,Los Angeles,California,Corporate,2023-04-10
+CUST-0114,Yuki Lewis,yuki.lewis114@example.com,Fort Worth,Texas,Consumer,2023-07-03
+CUST-0115,Sandra Lewis,sandra.lewis115@example.com,CO City,Colorado,Corporate,2023-03-18
+CUST-0116,Carlos Lewis,carlos.lewis116@example.com,San Diego,California,Consumer,2024-06-19
+CUST-0117,David Harris,david.harris117@example.com,VA City,Virginia,Corporate,2023-11-19
+CUST-0118,Patricia Robinson,patricia.robinson118@example.com,San Antonio,Texas,Consumer,2024-06-03
+CUST-0119,James Martinez,james.martinez119@example.com,MI City,Michigan,Corporate,2023-11-30
+CUST-0120,Yuki Moore,yuki.moore120@example.com,GA City,Georgia,Consumer,2023-02-04
+CUST-0121,Elizabeth Walker,elizabeth.walker121@example.com,MI City,Michigan,Consumer,2023-09-20
+CUST-0122,Linda Clark,linda.clark122@example.com,OR City,Oregon,Consumer,2023-04-28
+CUST-0123,Lisa Ramirez,lisa.ramirez123@example.com,GA City,Georgia,Consumer,2024-07-11
+CUST-0124,Betty Rodriguez,betty.rodriguez124@example.com,Rochester,New York,Corporate,2024-08-27
+CUST-0125,Betty Martinez,betty.martinez125@example.com,WI City,Wisconsin,Consumer,2024-02-19
+CUST-0126,Christopher Moore,christopher.moore126@example.com,Tampa,Florida,Consumer,2024-08-06
+CUST-0127,Sofia Jones,sofia.jones127@example.com,Buffalo,New York,Consumer,2023-03-01
+CUST-0128,Ana Perez,ana.perez128@example.com,GA City,Georgia,Consumer,2024-09-12
+CUST-0129,Charles Robinson,charles.robinson129@example.com,OH City,Ohio,Consumer,2023-05-20
+CUST-0130,Ava Johnson,ava.johnson130@example.com,Tampa,Florida,Consumer,2023-11-01
+CUST-0131,John Lee,john.lee131@example.com,OH City,Ohio,Corporate,2024-01-12
+CUST-0132,Priya Lee,priya.lee132@example.com,Buffalo,New York,Consumer,2024-02-21
+CUST-0133,Ana Miller,ana.miller133@example.com,GA City,Georgia,Consumer,2023-10-03
+CUST-0134,Sofia Moore,sofia.moore134@example.com,NJ City,New Jersey,Home Office,2023-12-23
+CUST-0135,Ethan Robinson,ethan.robinson135@example.com,PA City,Pennsylvania,Corporate,2023-11-18
+CUST-0136,William Lopez,william.lopez136@example.com,MA City,Massachusetts,Consumer,2023-09-03
+CUST-0137,Nancy Johnson,nancy.johnson137@example.com,TN City,Tennessee,Consumer,2023-02-16
+CUST-0138,Patricia Martinez,patricia.martinez138@example.com,New York City,New York,Consumer,2023-11-08
+CUST-0139,Robert Sanchez,robert.sanchez139@example.com,San Jose,California,Home Office,2023-10-07
+CUST-0140,Charles Wilson,charles.wilson140@example.com,San Antonio,Texas,Consumer,2023-06-02
+CUST-0141,Daniel Gonzalez,daniel.gonzalez141@example.com,WI City,Wisconsin,Corporate,2023-02-18
+CUST-0142,Yuki Anderson,yuki.anderson142@example.com,MI City,Michigan,Corporate,2023-07-18
+CUST-0143,Carlos Wilson,carlos.wilson143@example.com,NC City,North Carolina,Consumer,2023-08-02
+CUST-0144,James Clark,james.clark144@example.com,San Antonio,Texas,Corporate,2023-12-02
+CUST-0145,Linda Allen,linda.allen145@example.com,PA City,Pennsylvania,Corporate,2024-09-24
+CUST-0146,Liam Wright,liam.wright146@example.com,Dallas,Texas,Consumer,2023-11-18
+CUST-0147,Joseph Williams,joseph.williams147@example.com,VA City,Virginia,Consumer,2023-01-27
+CUST-0148,Karen Allen,karen.allen148@example.com,,Texas,Consumer,2023-04-07
+CUST-0149,Ethan Thompson,ethan.thompson149@example.com,New York City,New York,Corporate,2023-05-29
+CUST-0150,Nancy Sanchez,nancy.sanchez150@example.com,San Francisco,California,Corporate,2023-11-12
+CUST-0151,William Robinson,william.robinson151@example.com,NC City,North Carolina,Corporate,2024-02-12
+CUST-0152,Ana Clark,ana.clark152@example.com,San Francisco,California,Consumer,2024-04-08
+CUST-0153,Emma Lopez,emma.lopez153@example.com,TN City,Tennessee,Corporate,2023-07-31
+CUST-0154,Nancy Harris,nancy.harris154@example.com,Naperville,Illinois,Corporate,2024-06-28
+CUST-0155,Ava Jones,ava.jones155@example.com,Rochester,New York,Consumer,2024-06-27
+CUST-0156,Nancy Jackson,nancy.jackson156@example.com,Fort Lauderdale,Florida,Corporate,2023-03-09
+CUST-0157,Ava Wilson,ava.wilson157@example.com,Buffalo,New York,Consumer,2023-04-24
+CUST-0158,David Perez,david.perez158@example.com,Tampa,Florida,Corporate,2024-08-15
+CUST-0159,Susan Martin,susan.martin159@example.com,New York City,New York,Corporate,2023-01-05
+CUST-0160,Priya Harris,priya.harris160@example.com,GA City,Georgia,Consumer,2024-09-19
+CUST-0161,Yuki Clark,yuki.clark161@example.com,MD City,Maryland,Home Office,2023-11-26
+CUST-0162,Wei Perez,wei.perez162@example.com,IN City,Indiana,Consumer,2024-05-14
+CUST-0163,Daniel Sanchez,daniel.sanchez163@example.com,Tampa,Florida,Corporate,2024-02-20
+CUST-0164,Charles King,charles.king164@example.com,OR City,Oregon,Corporate,2023-04-09
+CUST-0165,Richard King,richard.king165@example.com,New York City,New York,Consumer,2024-04-24
+CUST-0166,Jennifer Moore,jennifer.moore166@example.com,Rockford,Illinois,Consumer,2024-05-11
+CUST-0167,Yuki Lopez,yuki.lopez167@example.com,Miami,Florida,Consumer,2024-09-16
+CUST-0168,Ana Davis,ana.davis168@example.com,AZ City,Arizona,Home Office,2023-12-21
+CUST-0169,Karen Lewis,karen.lewis169@example.com,San Francisco,California,Consumer,2023-02-05
+CUST-0170,Thomas Brown,thomas.brown170@example.com,NC City,North Carolina,Corporate,2024-05-02
+CUST-0171,Wei Smith,wei.smith171@example.com,NJ City,New Jersey,Corporate,2024-07-07
+CUST-0172,Thomas Johnson,thomas.johnson172@example.com,San Antonio,Texas,Home Office,2023-03-07
+CUST-0173,Karen Smith,karen.smith173@example.com,PA City,Pennsylvania,Consumer,2023-06-18
+CUST-0174,Sandra Clark,sandra.clark174@example.com,MO City,Missouri,Corporate,2023-09-14
+CUST-0175,Barbara Rodriguez,barbara.rodriguez175@example.com,TN City,Tennessee,Home Office,2023-12-01
+CUST-0176,Jessica Young,jessica.young176@example.com,OH City,Ohio,Consumer,2023-07-11
+CUST-0177,Jennifer Martinez,jennifer.martinez177@example.com,MO City,Missouri,Consumer,2024-07-07
+CUST-0178,David White,david.white178@example.com,NJ City,New Jersey,Corporate,2023-08-07
+CUST-0179,Lisa Wright,lisa.wright179@example.com,Rochester,New York,Consumer,2024-05-10
+CUST-0180,Jennifer Lee,jennifer.lee180@example.com,NV City,Nevada,Corporate,2024-06-30
+CUST-0181,Priya Williams,priya.williams181@example.com,MD City,Maryland,Consumer,2023-09-08
+CUST-0182,Jessica Jones,jessica.jones182@example.com,Miami,Florida,Consumer,2023-02-22
+CUST-0183,Matthew Smith,matthew.smith183@example.com,Peoria,Illinois,Consumer,2024-09-07
+CUST-0184,Karen Anderson,karen.anderson184@example.com,WI City,Wisconsin,Consumer,2024-09-06
+CUST-0185,Carlos Wright,carlos.wright185@example.com,MO City,Missouri,Consumer,2023-07-01
+CUST-0186,Matthew Lopez,matthew.lopez186@example.com,MD City,Maryland,Corporate,2023-07-15
+CUST-0187,Lisa Davis,lisa.davis187@example.com,NC City,North Carolina,Consumer,2024-01-13
+CUST-0188,Noah Rodriguez,noah.rodriguez188@example.com,New York City,New York,Home Office,2023-04-24
+CUST-0189,James Martinez,james.martinez189@example.com,OH City,Ohio,Corporate,2023-06-10
+CUST-0190,Ana Thompson,ana.thompson190@example.com,Rockford,Illinois,Corporate,2023-10-08
+CUST-0191,Yuki Rodriguez,yuki.rodriguez191@example.com,MD City,Maryland,Corporate,2024-06-04
+CUST-0192,Christopher Miller,christopher.miller192@example.com,OH City,Ohio,Corporate,2023-07-24
+CUST-0193,John Lopez,john.lopez193@example.com,PA City,Pennsylvania,Consumer,2024-09-02
+CUST-0194,Michael Johnson,michael.johnson194@example.com,WI City,Wisconsin,Consumer,2024-04-17
+CUST-0195,John Johnson,john.johnson195@example.com,San Jose,California,Consumer,2023-06-07
+CUST-0196,Christopher Ramirez,christopher.ramirez196@example.com,San Jose,California,Consumer,2023-07-19
+CUST-0197,John Ramirez,john.ramirez197@example.com,MI City,Michigan,Consumer,2023-02-08
+CUST-0198,Sofia Hernandez,sofia.hernandez198@example.com,Tampa,Florida,Consumer,2023-05-28
+CUST-0199,Richard Brown,richard.brown199@example.com,IN City,Indiana,Consumer,2023-04-14
+CUST-0200,James Martinez,james.martinez200@example.com,Rochester,New York,Corporate,2023-11-09
+CUST-0201,Charles Taylor,charles.taylor201@example.com,Buffalo,New York,Consumer,2024-06-21
+CUST-0202,Joseph Young,joseph.young202@example.com,MI City,Michigan,Consumer,2023-11-03
+CUST-0203,Fatima Lopez,fatima.lopez203@example.com,CO City,Colorado,Consumer,2023-11-05
+CUST-0204,Robert Walker,robert.walker204@example.com,San Antonio,Texas,Consumer,2024-03-30
+CUST-0205,Robert Smith,robert.smith205@example.com,San Jose,California,Consumer,2024-08-10
+CUST-0206,David Garcia,david.garcia206@example.com,GA City,Georgia,Consumer,2023-03-12
+CUST-0207,Patricia Martin,patricia.martin207@example.com,OH City,Ohio,Consumer,2024-03-15
+CUST-0208,Noah Martinez,noah.martinez208@example.com,GA City,Georgia,Consumer,2024-06-29
+CUST-0209,Ethan Ramirez,ethan.ramirez209@example.com,TN City,Tennessee,Home Office,2023-07-06
+CUST-0210,Barbara Martin,barbara.martin210@example.com,GA City,Georgia,Home Office,2023-10-18
+CUST-0211,Patricia Gonzalez,patricia.gonzalez211@example.com,AZ City,Arizona,Corporate,2023-04-05
+CUST-0212,Joseph Brown,joseph.brown212@example.com,Dallas,Texas,Consumer,2024-01-19
+CUST-0213,Charles Lewis,charles.lewis213@example.com,Sacramento,California,Consumer,2023-02-19
+CUST-0214,Jessica Harris,jessica.harris214@example.com,NJ City,New Jersey,Corporate,2023-04-16
+CUST-0215,Susan Sanchez,susan.sanchez215@example.com,Syracuse,New York,Corporate,2023-03-21
+CUST-0216,William Jones,william.jones216@example.com,San Antonio,Texas,Consumer,2024-03-04
+CUST-0217,Ana Moore,ana.moore217@example.com,NV City,Nevada,Consumer,2023-06-19
+CUST-0218,James Martin,james.martin218@example.com,OH City,Ohio,Consumer,2024-09-26
+CUST-0219,Betty Young,betty.young219@example.com,MO City,Missouri,Corporate,2023-09-23
+CUST-0220,Lisa Miller,lisa.miller220@example.com,San Diego,California,Consumer,2023-06-24
+CUST-0221,Anthony Gonzalez,anthony.gonzalez221@example.com,MA City,Massachusetts,Consumer,2024-02-29
+CUST-0222,Robert Lee,robert.lee222@example.com,Fort Worth,Texas,Consumer,2024-06-25
+CUST-0223,Margaret Perez,margaret.perez223@example.com,PA City,Pennsylvania,Corporate,2023-12-02
+CUST-0224,Sarah Jackson,sarah.jackson224@example.com,OH City,Ohio,Corporate,2024-04-08
+CUST-0225,Wei Wright,,Tampa,Florida,Consumer,2024-08-13
+CUST-0226,Mary Ramirez,mary.ramirez226@example.com,PA City,Pennsylvania,Consumer,2023-10-01
+CUST-0227,Sarah Ramirez,sarah.ramirez227@example.com,Miami,Florida,Consumer,2024-07-22
+CUST-0228,Priya Gonzalez,priya.gonzalez228@example.com,San Antonio,Texas,Home Office,2024-09-06
+CUST-0229,David Wright,david.wright229@example.com,Austin,Texas,Corporate,2024-08-06
+CUST-0230,Christopher Thompson,christopher.thompson230@example.com,Tampa,Florida,Corporate,2024-07-15
+CUST-0231,Daniel Thompson,daniel.thompson231@example.com,WA City,Washington,Corporate,2024-04-12
+CUST-0232,Karen Brown,karen.brown232@example.com,,Maryland,Corporate,2024-03-22
+CUST-0233,Emma Moore,emma.moore233@example.com,Dallas,Texas,Consumer,2023-03-05
+CUST-0234,Fatima Davis,fatima.davis234@example.com,Fort Lauderdale,Florida,Home Office,2024-09-17
+CUST-0235,Wei Thompson,wei.thompson235@example.com,Buffalo,New York,Corporate,2023-09-10
+CUST-0236,Anthony Wilson,anthony.wilson236@example.com,GA City,Georgia,Home Office,2023-09-19
+CUST-0237,Daniel Taylor,daniel.taylor237@example.com,Austin,Texas,Consumer,2023-08-05
+CUST-0238,Carlos Jones,carlos.jones238@example.com,San Antonio,Texas,Consumer,2023-07-16
+CUST-0239,Mary King,mary.king239@example.com,Houston,Texas,Corporate,2023-05-07
+CUST-0240,Betty Walker,betty.walker240@example.com,Buffalo,New York,Consumer,2023-11-02
+CUST-0241,Nancy Jackson,nancy.jackson241@example.com,Springfield,Illinois,Consumer,2023-10-18
+CUST-0242,James Taylor,james.taylor242@example.com,WI City,Wisconsin,Consumer,2023-06-06
+CUST-0243,Mark Walker,mark.walker243@example.com,New York City,New York,Corporate,2023-03-12
+CUST-0244,Richard Hernandez,richard.hernandez244@example.com,MD City,Maryland,Home Office,2024-07-14
+CUST-0245,Margaret Wright,margaret.wright245@example.com,WI City,Wisconsin,Consumer,2024-01-12
+CUST-0246,Patricia Allen,patricia.allen246@example.com,PA City,Pennsylvania,Consumer,2023-07-14
+CUST-0247,Liam Robinson,liam.robinson247@example.com,GA City,Georgia,Consumer,2023-09-15
+CUST-0248,Lisa Williams,lisa.williams248@example.com,Houston,Texas,Corporate,2023-06-11
+CUST-0249,Noah Jackson,noah.jackson249@example.com,Syracuse,New York,Consumer,2024-04-14
+CUST-0250,Thomas Brown,thomas.brown250@example.com,WA City,Washington,Consumer,2024-04-30
