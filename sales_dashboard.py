@@ -37,4 +37,8 @@ order["margin_pct"] = order["profit"] / order["total_amount"]
 #SALES BY STATE: 
 #number of orders: 
 state = order.groupby("ship_state")["total_amount"].sum().sort_values(ascending=False)
-print(state)
+# print(state)
+
+#MONTHLY GROWTH
+monthly_growth = monthly_revenue.pct_change()
+print(monthly_growth)
